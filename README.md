@@ -1,2 +1,2 @@
-# Ola-Mundo
- Primeiro repositorio guanabara
+# Olá, Mundo!
+ Primeiro repositorio git e github com guanabara
